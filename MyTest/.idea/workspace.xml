@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9ef76ea8-2447-49cd-a4d1-7953cc932be3" name="Default Changelist" comment="" />
+    <list default="true" id="9ef76ea8-2447-49cd-a4d1-7953cc932be3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../HashMap_JDK1.8/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HashMap_JDK1.8/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HashMap_JDK1.8/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../huiwenshu/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../huiwenshu/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -40,13 +44,22 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="-825163625">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/getChange.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="574">
+            <state relative-caret-position="700">
               <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
             </state>
           </provider>
@@ -91,6 +104,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -107,18 +123,17 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-5" />
     <option name="width" value="1930" />
     <option name="height" value="1040" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -135,6 +150,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -215,17 +232,18 @@
       <updated>1552701577825</updated>
       <workItem from="1552701580450" duration="7557000" />
       <workItem from="1552789236053" duration="274000" />
+      <workItem from="1554088475638" duration="12000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7831000" />
+    <option name="totallyTimeSpent" value="7843000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2533512" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25603217" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="JRebel" order="2" side_tool="true" />
       <window_info id="Image Layers" order="3" />
@@ -267,7 +285,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/getChange.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="574">
+        <state relative-caret-position="700">
           <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
         </state>
       </provider>

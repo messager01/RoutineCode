@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8c51fd6e-e38a-4b65-8583-edf79c9d4212" name="Default Changelist" comment="" />
+    <list default="true" id="8c51fd6e-e38a-4b65-8583-edf79c9d4212" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../HashMap_JDK1.8/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HashMap_JDK1.8/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HashMap_JDK1.8/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyTest/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MyTest/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../huiwenshu/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../huiwenshu/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../判断两个字符串相等/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../判断两个字符串相等/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -40,18 +46,26 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="-656855007">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/demo1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-555">
+            <state relative-caret-position="-309">
               <caret line="5" selection-start-line="5" selection-end-line="5" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="method#getArr#0;class#demo1#0" />
-                <element signature="method#main#0;class#demo1#0" />
               </folding>
             </state>
           </provider>
@@ -65,6 +79,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -85,11 +102,14 @@
     <option name="width" value="1640" />
     <option name="height" value="900" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -101,8 +121,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -150,17 +168,18 @@
       <updated>1551507636303</updated>
       <workItem from="1551507643504" duration="5200000" />
       <workItem from="1551531158668" duration="9000" />
+      <workItem from="1554088537387" duration="11000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5209000" />
+    <option name="totallyTimeSpent" value="5220000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22654155" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22922252" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="JRebel" order="2" side_tool="true" />
       <window_info id="Image Layers" order="3" />
@@ -202,12 +221,11 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/demo1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-555">
+        <state relative-caret-position="-309">
           <caret line="5" selection-start-line="5" selection-end-line="5" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="method#getArr#0;class#demo1#0" />
-            <element signature="method#main#0;class#demo1#0" />
           </folding>
         </state>
       </provider>
