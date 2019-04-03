@@ -6,6 +6,7 @@ public class demo4 {
      *
      * @param args
      * 输入两个数组
+     *
      */
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
